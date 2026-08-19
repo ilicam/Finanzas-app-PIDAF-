@@ -1,0 +1,14 @@
+{
+  "name": "FinanzasApp · PIDAF",
+  "short_name": "FinanzasApp",
+  "description": "Tu sistema personal de finanzas PIDAF",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F6F1EA",
+  "theme_color": "#B8925A",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
